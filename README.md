@@ -1,2 +1,3 @@
 # dotfiles
-Initial macOS setup
+Initial macOS setup for development and design work.
+
