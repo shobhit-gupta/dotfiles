@@ -10,3 +10,5 @@ Initial macOS setup for development and design work.
 - Trackpad
 - .zshrc
 - Git (config and ssh)
+- Homebrew Install
+
