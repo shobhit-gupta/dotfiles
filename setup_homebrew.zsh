@@ -9,6 +9,7 @@ brew tap homebrew/cask-versions
 brew install httpie
 brew install bat
 
-brew install google-chrome
-brew install google-chrome-canary
-brew install visual-studio-code
+brew install --no-quarantine google-chrome
+brew install --no-quarantine google-chrome-canary
+brew install --no-quarantine visual-studio-code
+brew install --no-quarantine alfred
