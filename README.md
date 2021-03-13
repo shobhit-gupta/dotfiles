@@ -8,7 +8,5 @@ Initial macOS setup for development and design work.
 - Mission Control Preferences
 - Finder Show Path Bar
 - Trackpad
-- .zshrc
 - Git (config and ssh)
-- Homebrew Install
 
